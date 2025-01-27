@@ -32,6 +32,8 @@ More exciting projects will be added soon, including:
 4. Install required packages and follow project-specific instructions.
 
 ## Contact
-For questions or feedback, feel free to reach out at enes.caglar@sabanciuniv.edu.
+If you have any questions or suggestions, feel free to reach out at **enes.caglar@sabanciuniv.edu**.
 
-Thank you for exploring the R Projects repository! 🚀
+---
+
+Thank you for visiting my **Excel Projects Repository**! 🚀
